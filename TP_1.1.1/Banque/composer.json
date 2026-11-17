@@ -1,0 +1,16 @@
+{
+    "name": "dell/banque",
+    "autoload": {
+        "psr-4": {
+            "Dell\\Banque\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name" : "marouane" ,
+            "email" : "elmessaoudimarouane607@gmail.com"
+        }
+    ] ,
+    
+    "require": {}
+}
